@@ -32,6 +32,6 @@ as input. This new dataset has basic FE as well as an added feature
 
 After deaths predictions are obtained, I Have generated another csv 
 which contains the deaths predictions as an added feature. This file
-Has all the deaths history, as well as Cases Prddicted for next week, 
-And deaths predicted for next week. Data Visualization and comparisons 
-graphs can be generated from this file.
+Has population of an area, all the deaths history, as well as Cases 
+Predicted for next week, And deaths predicted for next week. Data 
+Visualization and comparisons graphs can be generated from this file.
